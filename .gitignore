@@ -1,0 +1,13 @@
+.htaccess
+.htaccess*
+wp-config.php
+wp-content/et-cache
+wp-content/upgrade
+wp-content/backups
+wp-content/uploads
+wp-content/wflogs
+wp-content/wfcache
+wp-content/plugins/wordfence/tmp
+wp-content/debug.log
+*.zip
+*.tar.gz
