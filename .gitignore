@@ -1,6 +1,8 @@
 .htaccess
 .htaccess*
+.user.ini
 wp-config.php
+wordfence-waf.php
 wp-content/et-cache
 wp-content/upgrade
 wp-content/backups
