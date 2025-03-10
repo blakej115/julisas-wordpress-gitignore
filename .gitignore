@@ -4,6 +4,8 @@
 wp-config.php
 wordfence-waf.php
 wp-content/et-cache
+wp-content/object-cache.php
+wp-content/advanced-cache.php
 wp-content/upgrade
 wp-content/backups
 wp-content/uploads
